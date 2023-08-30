@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **pythonplant12@gmail.com**
 
-- ⚡ Fun fact **"The people live a different world, we code this world for they live. Greetings to all programmers around the world. Stay sharp, keep coding!"**
+- ⚡ Favorite Quote **"The people live a different world, we code this world for they live. Greetings to all programmers around the world. Stay sharp, keep coding!"**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
