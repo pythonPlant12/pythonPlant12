@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pythonplant12&label=Profile%20views&color=0e75b6&style=flat" alt="pythonplant12" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pythonplant12" alt="pythonplant12" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/nikitamarbella" target="blank"><img src="https://img.shields.io/twitter/follow/nikitamarbella?logo=twitter&style=for-the-badge" alt="nikitamarbella" /></a> </p>
 
 - 🔭 I’m currently working on **Public Administration and Governmental Software solutions**
