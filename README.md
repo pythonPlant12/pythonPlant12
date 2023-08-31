@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikita</h1>
 <h3 align="center">A passionate Fullstack developer specialising on RESTful API</h3>
 
-<p align="center"> <a href="https://twitter.com/pythonPlant12" target="blank"><img src="https://img.shields.io/twitter/follow/nikitamarbella?logo=twitter&style=for-the-badge" alt="pythonPlant12" /></a> </p>
+<p align="center"> <a href="https://twitter.com/pythonPlant12" target="blank"><img src="https://img.shields.io/twitter/follow/pythonPlant12?logo=twitter&style=for-the-badge" alt="pythonPlant12" /></a> </p>
 
 - 🔭 I’m currently working on **Public Administration and Governmental Software solutions**
 
