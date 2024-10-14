@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Public Administration and Governmental Software solutions**
 
-- 🌱 I’m currently learning **Vue, Kubernetes and Rust**
+- 🌱 I’m currently learning **Kubernetes and Rust**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pythonPlant12?tab=repositories](https://github.com/pythonPlant12?tab=repositories)
 
